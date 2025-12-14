@@ -33,6 +33,6 @@ scale-stable correlation structure with a finite correlation length.
 If you use or reference this work, please cite:
 
 > Proxmire, A. (2025). *Renormalized Prime Gap Studies*. Zenodo.  
-> https://doi.org/10.5281/zenodo.XXXXXX
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+> (https://doi.org/10.5281/zenodo.17932183)
+[![DOI](https://zenodo.org/badge/1116458676.svg)](https://doi.org/10.5281/zenodo.17932183)
 
